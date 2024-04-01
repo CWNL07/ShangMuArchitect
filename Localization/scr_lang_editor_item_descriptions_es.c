@@ -3,7 +3,7 @@
 var lang_num = 3;
 lang_gui_name[lang_num,0] = "Gema de Cristal"
 lang_gui_desc[lang_num,0] = "Cristales flotantes que proporcionan resistencia adicional cuando se recogen!"
-lang_gui_name[lang_num,1] = "Gemas de Cristal Impulsadas"
+lang_gui_name[lang_num,1] = "Gemas de Cristal Impulsadoras"
 lang_gui_desc[lang_num,1] = "Recogida que otorga 1.5 veces más resistencia que las gemas de cristal normales! las Gemas de Cristal Impulsadas pueden aumentar la barra de resistencia hasta un 150% si se recogen (Nota: Las gemas de cristal normales no pueden agregar más resistencia mas alla del 100%!)"
 lang_gui_name[lang_num,2] = "Resorte Azul"
 lang_gui_desc[lang_num,2] = "Un resorte que rebota al jugador hacia arriba cuando salta o cae en el!"
